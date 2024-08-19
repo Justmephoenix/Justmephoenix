@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justmephoenix" alt="justmephoenix" /></a> </p>
 
-- 🔭 I’m currently working in **Apmosys Pvt Ltd as Software Engineer currently Working For Axis Bank Client**
+- 🔭 I’m working in **Apmosys Pvt Ltd as Software Engineer currently Working For Axis Bank Client**
 
 - 🌱 I’m currently Preparing For **Certified Cyber Security , CEH ,BSCP**
 
